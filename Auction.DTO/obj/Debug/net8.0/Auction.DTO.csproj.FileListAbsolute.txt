@@ -1,0 +1,11 @@
+C:\Users\vachi\source\repos\Auction.API\Auction.DTO\bin\Debug\net8.0\Auction.DTO.deps.json
+C:\Users\vachi\source\repos\Auction.API\Auction.DTO\bin\Debug\net8.0\Auction.DTO.dll
+C:\Users\vachi\source\repos\Auction.API\Auction.DTO\bin\Debug\net8.0\Auction.DTO.pdb
+C:\Users\vachi\source\repos\Auction.API\Auction.DTO\obj\Debug\net8.0\Auction.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vachi\source\repos\Auction.API\Auction.DTO\obj\Debug\net8.0\Auction.DTO.AssemblyInfoInputs.cache
+C:\Users\vachi\source\repos\Auction.API\Auction.DTO\obj\Debug\net8.0\Auction.DTO.AssemblyInfo.cs
+C:\Users\vachi\source\repos\Auction.API\Auction.DTO\obj\Debug\net8.0\Auction.DTO.csproj.CoreCompileInputs.cache
+C:\Users\vachi\source\repos\Auction.API\Auction.DTO\obj\Debug\net8.0\Auction.DTO.dll
+C:\Users\vachi\source\repos\Auction.API\Auction.DTO\obj\Debug\net8.0\refint\Auction.DTO.dll
+C:\Users\vachi\source\repos\Auction.API\Auction.DTO\obj\Debug\net8.0\Auction.DTO.pdb
+C:\Users\vachi\source\repos\Auction.API\Auction.DTO\obj\Debug\net8.0\ref\Auction.DTO.dll

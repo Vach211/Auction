@@ -1,0 +1,12 @@
+C:\Users\vachi\source\repos\Auction.API\Auction.DataAccess\bin\Debug\net8.0\Auction.DataAccess.deps.json
+C:\Users\vachi\source\repos\Auction.API\Auction.DataAccess\bin\Debug\net8.0\Auction.DataAccess.dll
+C:\Users\vachi\source\repos\Auction.API\Auction.DataAccess\bin\Debug\net8.0\Auction.DataAccess.pdb
+C:\Users\vachi\source\repos\Auction.API\Auction.DataAccess\obj\Debug\net8.0\Auction.DataAccess.csproj.AssemblyReference.cache
+C:\Users\vachi\source\repos\Auction.API\Auction.DataAccess\obj\Debug\net8.0\Auction.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vachi\source\repos\Auction.API\Auction.DataAccess\obj\Debug\net8.0\Auction.DataAccess.AssemblyInfoInputs.cache
+C:\Users\vachi\source\repos\Auction.API\Auction.DataAccess\obj\Debug\net8.0\Auction.DataAccess.AssemblyInfo.cs
+C:\Users\vachi\source\repos\Auction.API\Auction.DataAccess\obj\Debug\net8.0\Auction.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\vachi\source\repos\Auction.API\Auction.DataAccess\obj\Debug\net8.0\Auction.DataAccess.dll
+C:\Users\vachi\source\repos\Auction.API\Auction.DataAccess\obj\Debug\net8.0\refint\Auction.DataAccess.dll
+C:\Users\vachi\source\repos\Auction.API\Auction.DataAccess\obj\Debug\net8.0\Auction.DataAccess.pdb
+C:\Users\vachi\source\repos\Auction.API\Auction.DataAccess\obj\Debug\net8.0\ref\Auction.DataAccess.dll
